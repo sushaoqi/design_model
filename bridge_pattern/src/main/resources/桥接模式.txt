@@ -1,0 +1,2 @@
+桥接模式:
+https://www.cnblogs.com/chenssy/p/3317866.html
